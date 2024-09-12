@@ -1,0 +1,6 @@
+train: ./data/images/train
+val: ./data/images/valid
+test: ./data/images/test
+
+nc: 4
+names: ['1-', '2-', '3-', 'hair-root']
